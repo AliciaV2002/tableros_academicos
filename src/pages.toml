@@ -4,13 +4,9 @@ icon = ":mortar_board:"
 is_section = true  # This is a section
 
 [[pages]]
-name = "Colegio 1"
+name = "Información"
 path = "pages/matriculados.py"
 
-
-[[pages]]
-name = "Colegio 2"
-path = "pages/colegio1.py"
 
 [[pages]]
 name = "Segunda Lengua"
