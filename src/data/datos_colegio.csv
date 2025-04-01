@@ -1,0 +1,301 @@
+ID,Nombre,Apellido,Género,Fecha de Nacimiento,Tipo de Documento,Número de Documento,Grado,Fecha de Ingreso,Estrato,Grupo Étnico,Departamento,Ciudad,Segunda Lengua,Materia Favorita
+1,Teodora,Morales,Femenino,2006-06-30,CC,6298438362,7,2025-01-02,3,Palenquero,Valle del Cauca,Ourense,Experto,Matemáticas
+2,María Belén,Manzanares,Femenino,2007-05-01,CC,7796623760,7,2019-10-21,3,Raizal,Antioquia,Madrid,Experto,Ciencias
+3,Silvio,Diaz,Masculino,2009-06-24,CC,1827024598,8,2024-06-08,4,Raizal,Atlántico,Teruel,Intermedio,Ciencias
+4,Josefina,Pagès,Femenino,2006-11-13,TI,6777066244,10,2019-12-08,1,Otro,Antioquia,Teruel,Experto,Matemáticas
+5,Alexandra,Cabeza,Otro,2008-09-26,RC,4954245821,10,2023-07-07,1,Raizal,Bogotá,Almería,Experto,Arte
+6,Cloe,Galvez,Femenino,2008-03-20,TI,3002220517,8,2020-02-18,1,Mestizo,Atlántico,Vizcaya,Principiante absoluto,Español
+7,Genoveva,Ballesteros,Masculino,2007-08-30,CC,2821241551,11,2021-01-13,4,Afrodescendiente,Cundinamarca,Burgos,Principiante,Español
+8,Sabas,Ramirez,Femenino,2009-02-17,TI,4974848041,10,2020-09-30,4,Indígena,Atlántico,Guipúzcoa,Experto,Español
+9,Samuel,Llabrés,Otro,2010-04-25,CC,9309084249,7,2019-04-01,3,Raizal,Antioquia,Navarra,Intermedio,Educación Física
+10,Adelaida,Carrión,Femenino,2009-06-17,TI,9372671764,8,2021-05-24,5,Blanco,Bogotá,Vizcaya,Principiante,Historia
+11,Manuela,Gascón,Otro,2009-04-30,TI,5556247415,11,2025-03-23,3,Otro,Cundinamarca,Ciudad,Experto,Inglés
+12,Isaura,Salamanca,Femenino,2008-09-11,RC,8835383731,6,2021-09-22,4,Raizal,Valle del Cauca,Almería,Experto,Inglés
+13,Gonzalo,Balaguer,Otro,2008-08-06,RC,5122710768,9,2019-07-20,3,Otro,Atlántico,Vizcaya,Principiante,Arte
+14,Eliana,Araujo,Femenino,2006-05-18,TI,6419156177,7,2020-04-16,3,Afrodescendiente,Bogotá,Valladolid,Principiante,Español
+15,José,Coloma,Otro,2010-12-25,RC,4889321798,7,2023-10-31,2,Mestizo,Atlántico,Vizcaya,Experto,Matemáticas
+16,Ainara,Jove,Masculino,2011-01-09,CC,9336622988,9,2020-08-24,5,Mestizo,Santander,Ávila,Principiante absoluto,Historia
+17,Gema,Hoz,Femenino,2006-09-26,TI,9813357582,11,2024-07-02,2,Afrodescendiente,Atlántico,Soria,Principiante absoluto,Ciencias
+18,María Del Carmen,Somoza,Otro,2008-07-06,RC,6742594721,8,2020-03-04,5,Mestizo,Antioquia,Melilla,Avanzado,Educación Física
+19,Lidia,Sobrino,Masculino,2009-07-06,CC,3931616820,11,2021-04-10,5,Afrodescendiente,Cundinamarca,Almería,Experto,Español
+20,Conrado,Molina,Otro,2007-06-08,TI,2053786619,9,2020-10-31,2,Mestizo,Cundinamarca,León,Intermedio,Arte
+21,Albano,Gonzalez,Masculino,2006-04-30,RC,6632921525,10,2023-08-15,1,Raizal,Santander,Ceuta,Principiante absoluto,Matemáticas
+22,Trinidad,Gargallo,Femenino,2007-07-30,TI,1708781517,9,2020-11-10,6,Raizal,Atlántico,Badajoz,Principiante,Español
+23,Azucena,Leiva,Masculino,2008-12-14,TI,8394061966,7,2024-01-26,6,Otro,Bogotá,Lleida,Experto,Educación Física
+24,Ciríaco,Vázquez,Masculino,2009-06-09,CC,2755422481,11,2022-10-14,3,Otro,Antioquia,Melilla,Principiante absoluto,Inglés
+25,Rebeca,Barrio,Masculino,2008-08-26,CC,8138397438,9,2019-07-07,1,Indígena,Antioquia,Teruel,Intermedio,Educación Física
+26,Hilario,Aller,Otro,2009-03-27,RC,7036007935,7,2023-10-13,6,Blanco,Atlántico,Badajoz,Experto,Arte
+27,Felisa,Uriarte,Masculino,2012-06-28,TI,4232174182,7,2024-06-26,1,Otro,Valle del Cauca,Cáceres,Intermedio,Ciencias
+28,Jesús,Carbó,Femenino,2010-05-31,CC,5465489173,9,2022-09-11,2,Indígena,Cundinamarca,Cáceres,Intermedio,Matemáticas
+29,Ciriaco,Cabrero,Femenino,2008-05-14,RC,5575456793,7,2024-09-01,3,Afrodescendiente,Atlántico,Sevilla,Principiante,Español
+30,Victoria,Sobrino,Masculino,2011-02-16,RC,1359265752,10,2020-09-13,4,Raizal,Cundinamarca,Toledo,Avanzado,Historia
+31,Jenny,Arnaiz,Otro,2007-03-23,CC,6898666949,8,2021-09-08,3,Palenquero,Cundinamarca,León,Avanzado,Inglés
+32,Loreto,Prado,Masculino,2013-01-15,TI,9883599688,10,2019-09-23,6,Afrodescendiente,Antioquia,Zaragoza,Intermedio,Historia
+33,Angelita,Colom,Otro,2010-07-21,RC,8687971694,9,2024-05-14,6,Raizal,Antioquia,Lleida,Intermedio,Arte
+34,Serafina,Mateos,Femenino,2008-09-13,CC,6824469974,11,2021-08-25,6,Palenquero,Antioquia,Álava,Experto,Ciencias
+35,Severo,Villa,Otro,2009-05-26,CC,6043064879,11,2020-07-03,2,Mestizo,Bogotá,Córdoba,Intermedio,Historia
+36,Sandalio,Jaén,Otro,2010-10-23,TI,2458105730,8,2024-04-15,2,Mestizo,Santander,Ávila,Principiante,Arte
+37,Odalis,Casas,Masculino,2008-10-19,CC,5372118913,8,2022-04-04,6,Palenquero,Cundinamarca,Jaén,Principiante absoluto,Ciencias
+38,Priscila,Llabrés,Femenino,2010-03-15,RC,8264562960,7,2020-06-08,5,Otro,Valle del Cauca,Castellón,Avanzado,Educación Física
+39,Samuel,Alfonso,Femenino,2012-08-18,TI,5504024798,8,2022-06-11,1,Mestizo,Santander,Palencia,Principiante,Educación Física
+40,Casemiro,Marqués,Femenino,2011-01-27,RC,9081486860,9,2020-02-12,1,Raizal,Valle del Cauca,Sevilla,Principiante,Ciencias
+41,Lupita,Vargas,Femenino,2012-10-04,CC,8718140956,6,2020-04-06,2,Raizal,Valle del Cauca,Cáceres,Intermedio,Matemáticas
+42,Catalina,Benavent,Femenino,2006-06-29,RC,9960250170,10,2021-10-06,5,Mestizo,Bogotá,Toledo,Intermedio,Ciencias
+43,Juan José,Rivero,Otro,2010-04-02,CC,7311674591,9,2023-12-10,6,Indígena,Valle del Cauca,Teruel,Principiante absoluto,Ciencias
+44,Mónica,Agullo,Femenino,2007-12-24,RC,1432761764,7,2024-01-18,6,Blanco,Atlántico,Santa Cruz de Tenerife,Principiante,Inglés
+45,Marianela,Ribes,Otro,2011-01-21,TI,8564992504,9,2024-06-12,3,Raizal,Atlántico,Pontevedra,Avanzado,Inglés
+46,Marina,Otero,Femenino,2008-11-02,CC,4151084656,11,2020-05-28,6,Mestizo,Antioquia,Castellón,Intermedio,Español
+47,Nayara,Sanz,Otro,2007-07-04,CC,5671326732,10,2020-01-12,3,Indígena,Atlántico,Almería,Principiante absoluto,Arte
+48,Reynaldo,Boada,Masculino,2008-09-27,CC,5789421806,7,2019-08-18,2,Indígena,Santander,Salamanca,Avanzado,Arte
+49,Jordana,Morante,Masculino,2007-09-18,CC,2417363948,10,2023-05-23,6,Blanco,Antioquia,Álava,Experto,Español
+50,Cornelio,Carrera,Masculino,2008-10-08,RC,2948953099,9,2024-05-15,6,Otro,Atlántico,Salamanca,Intermedio,Historia
+51,Segismundo,Sales,Otro,2008-07-22,TI,1314536810,11,2024-04-22,1,Palenquero,Antioquia,Segovia,Intermedio,Matemáticas
+52,Juliana,Espinosa,Femenino,2007-08-13,CC,6559416095,9,2021-12-14,2,Afrodescendiente,Atlántico,Ciudad,Principiante,Educación Física
+53,Ruy,Berenguer,Masculino,2006-06-24,RC,6720384478,7,2024-07-22,6,Otro,Santander,Tarragona,Experto,Educación Física
+54,Nazaret,Gaya,Masculino,2006-07-21,TI,1699847934,11,2023-04-18,5,Otro,Bogotá,Ciudad,Avanzado,Ciencias
+55,Dafne,Porcel,Otro,2007-01-06,CC,7302138169,7,2021-02-28,2,Blanco,Antioquia,Pontevedra,Experto,Educación Física
+56,Jeremías,Falcó,Otro,2011-05-03,CC,6676443861,10,2023-11-11,5,Mestizo,Valle del Cauca,Cádiz,Experto,Matemáticas
+57,Socorro,Quiroga,Masculino,2011-05-03,TI,3116526059,11,2022-09-17,2,Afrodescendiente,Valle del Cauca,Almería,Avanzado,Español
+58,Dorotea,Santamaría,Femenino,2009-11-29,TI,8591934430,11,2022-02-10,5,Afrodescendiente,Antioquia,Albacete,Principiante absoluto,Arte
+59,Evangelina,Paz,Masculino,2012-05-28,CC,3574128557,6,2023-02-21,6,Palenquero,Atlántico,Burgos,Avanzado,Matemáticas
+60,Manuelita,Elorza,Masculino,2009-07-15,TI,9520336800,11,2025-03-20,5,Blanco,Valle del Cauca,Cádiz,Principiante,Español
+61,Estela,Velázquez,Masculino,2011-04-03,CC,7115294603,6,2025-02-02,1,Mestizo,Atlántico,Girona,Experto,Español
+62,Flavio,Oliveras,Otro,2012-12-18,CC,8379444446,11,2023-11-29,3,Raizal,Santander,Badajoz,Principiante absoluto,Inglés
+63,Albert,Olivares,Femenino,2009-06-30,RC,1823435513,11,2020-02-25,1,Blanco,Bogotá,Teruel,Principiante,Arte
+64,Espiridión,Canet,Femenino,2008-03-20,RC,6332742077,8,2021-11-02,3,Palenquero,Valle del Cauca,Badajoz,Principiante absoluto,Educación Física
+65,Geraldo,Jurado,Masculino,2011-01-21,TI,5755495956,6,2020-09-26,2,Mestizo,Atlántico,Girona,Principiante absoluto,Inglés
+66,Sabas,Castellanos,Femenino,2007-08-12,TI,9005372709,6,2022-10-20,6,Palenquero,Cundinamarca,Pontevedra,Principiante absoluto,Arte
+67,Prudencio,Guerrero,Femenino,2012-06-14,RC,9275392264,6,2023-11-29,3,Afrodescendiente,Bogotá,Lugo,Experto,Historia
+68,Juan Francisco,Prado,Femenino,2012-05-20,CC,6597191920,10,2019-03-26,6,Mestizo,Valle del Cauca,Murcia,Principiante absoluto,Español
+69,Reyes,Rosselló,Masculino,2011-08-03,TI,3378956723,11,2019-04-05,4,Raizal,Cundinamarca,Baleares,Principiante absoluto,Español
+70,Elena,Baeza,Masculino,2008-11-23,RC,3141140707,7,2022-05-31,4,Blanco,Bogotá,Ourense,Experto,Inglés
+71,Manu,Mateo,Masculino,2006-12-03,TI,4159690014,6,2023-05-03,4,Mestizo,Bogotá,Segovia,Experto,Educación Física
+72,Abilio,Barral,Masculino,2006-05-28,TI,5647604642,7,2021-03-21,1,Blanco,Antioquia,Barcelona,Intermedio,Arte
+73,Emperatriz,Alberola,Femenino,2012-12-04,RC,4219513813,6,2019-12-12,6,Indígena,Atlántico,Cuenca,Principiante absoluto,Ciencias
+74,Azahar,Herrera,Masculino,2007-02-07,TI,7195650062,6,2024-10-15,2,Indígena,Antioquia,Baleares,Avanzado,Español
+75,Ariel,Bauzà,Masculino,2012-09-17,CC,7363990098,11,2023-02-08,1,Mestizo,Bogotá,Ciudad,Principiante,Matemáticas
+76,Isaac,Jurado,Femenino,2009-07-12,CC,9214537124,11,2020-04-30,5,Palenquero,Valle del Cauca,Huesca,Principiante,Inglés
+77,José Luis,Cañas,Masculino,2009-12-24,RC,2272662517,8,2020-06-11,3,Palenquero,Valle del Cauca,Ciudad,Experto,Educación Física
+78,Aitor,Echevarría,Masculino,2010-09-20,TI,8992384468,11,2023-01-01,2,Afrodescendiente,Santander,Santa Cruz de Tenerife,Avanzado,Matemáticas
+79,Natividad,Sanz,Femenino,2006-08-11,TI,4483557409,8,2020-04-13,5,Palenquero,Cundinamarca,Murcia,Avanzado,Inglés
+80,Pancho,Calvo,Femenino,2012-05-25,RC,2411912269,10,2024-10-30,1,Afrodescendiente,Antioquia,Badajoz,Experto,Arte
+81,Rafaela,Capdevila,Femenino,2012-11-03,RC,9168331747,11,2021-07-09,3,Blanco,Bogotá,Cáceres,Intermedio,Arte
+82,Vilma,Riba,Masculino,2007-03-07,CC,7724276630,10,2020-03-14,2,Afrodescendiente,Cundinamarca,Navarra,Principiante absoluto,Educación Física
+83,Irene,Lucena,Masculino,2009-07-17,RC,6271449108,11,2019-04-02,5,Raizal,Atlántico,Málaga,Avanzado,Arte
+84,Regina,Borrego,Masculino,2006-05-04,CC,4186160132,9,2022-06-18,1,Afrodescendiente,Santander,León,Principiante,Educación Física
+85,Sonia,Ruiz,Otro,2011-09-20,RC,1011816816,9,2022-02-09,4,Mestizo,Bogotá,Castellón,Intermedio,Ciencias
+86,Otilia,Murillo,Otro,2010-09-16,TI,2033454787,8,2021-06-09,4,Otro,Valle del Cauca,Córdoba,Experto,Inglés
+87,Tatiana,Plaza,Femenino,2006-10-30,TI,6178543167,6,2023-05-16,6,Raizal,Bogotá,Cantabria,Intermedio,Español
+88,Ignacio,Espinosa,Femenino,2006-12-22,TI,2446628575,10,2020-05-01,3,Palenquero,Cundinamarca,Ourense,Principiante,Ciencias
+89,Regina,Pedrero,Masculino,2008-06-07,CC,9978058757,10,2019-12-14,6,Mestizo,Santander,Badajoz,Principiante,Ciencias
+90,Jordán,Barberá,Otro,2008-12-13,TI,1452967895,9,2020-09-27,6,Palenquero,Antioquia,Ceuta,Experto,Arte
+91,Eufemia,Verdú,Femenino,2008-09-30,CC,5796489272,9,2021-02-06,3,Otro,Atlántico,Albacete,Avanzado,Educación Física
+92,Bernardita,Ugarte,Otro,2007-06-16,TI,7310597773,9,2021-01-25,3,Mestizo,Valle del Cauca,Las Palmas,Experto,Matemáticas
+93,Imelda,Juan,Masculino,2006-10-13,TI,9155304964,11,2020-08-24,1,Indígena,Bogotá,Toledo,Principiante,Español
+94,Heriberto,Suárez,Otro,2006-09-11,TI,4249049064,7,2021-04-14,1,Mestizo,Bogotá,Cáceres,Principiante,Historia
+95,Rosalva,Jaume,Femenino,2007-08-05,TI,1773130692,10,2021-12-25,4,Indígena,Atlántico,Madrid,Intermedio,Español
+96,Ale,Carrillo,Masculino,2006-08-05,RC,3846564836,8,2022-07-24,2,Afrodescendiente,Santander,Zaragoza,Principiante absoluto,Historia
+97,Erasmo,Jurado,Femenino,2010-02-20,TI,5411205990,8,2019-09-16,6,Raizal,Cundinamarca,Valladolid,Avanzado,Arte
+98,Gema,Bas,Femenino,2006-05-09,RC,4183453263,11,2021-03-12,1,Raizal,Bogotá,Cáceres,Avanzado,Historia
+99,Zacarías,Milla,Masculino,2009-03-26,TI,5171917293,11,2021-06-17,6,Otro,Valle del Cauca,Santa Cruz de Tenerife,Principiante,Ciencias
+100,Samu,Vila,Femenino,2009-07-28,RC,7268615527,10,2022-06-16,6,Indígena,Antioquia,Granada,Avanzado,Arte
+101,Adán,Sureda,Femenino,2009-10-01,RC,7367509039,7,2019-12-22,6,Indígena,Santander,Zamora,Avanzado,Arte
+102,Cesar,Alberola,Otro,2008-07-03,TI,7696642793,7,2020-01-06,1,Otro,Bogotá,La Coruña,Experto,Inglés
+103,Clemente,Baños,Otro,2012-03-21,TI,7330891145,10,2024-10-17,5,Otro,Bogotá,Asturias,Avanzado,Matemáticas
+104,Crescencia,Andrés,Masculino,2010-06-02,TI,4635160514,10,2024-01-12,2,Raizal,Antioquia,Murcia,Experto,Historia
+105,Nerea,Pla,Masculino,2008-09-29,RC,8950519054,8,2019-07-13,6,Raizal,Santander,Ceuta,Experto,Ciencias
+106,Juan,Sobrino,Femenino,2007-05-26,RC,7629338621,10,2023-07-13,4,Afrodescendiente,Santander,Melilla,Experto,Educación Física
+107,Leocadia,Esteve,Femenino,2007-11-11,TI,5147349883,9,2024-03-26,4,Indígena,Atlántico,Sevilla,Avanzado,Matemáticas
+108,Valentín,Palma,Masculino,2009-08-30,CC,4714680963,11,2024-03-05,1,Mestizo,Antioquia,Guipúzcoa,Experto,Arte
+109,Abril,Bayón,Femenino,2008-10-04,CC,7890200798,6,2024-12-03,2,Blanco,Antioquia,Girona,Intermedio,Matemáticas
+110,Chema,Guillén,Femenino,2007-12-18,RC,7765391259,8,2023-06-25,2,Palenquero,Valle del Cauca,Pontevedra,Intermedio,Inglés
+111,Edelmiro,Salvà,Masculino,2006-12-05,TI,4685693211,7,2025-01-16,4,Afrodescendiente,Bogotá,La Coruña,Experto,Educación Física
+112,Glauco,Lucas,Masculino,2010-01-08,TI,2233509658,9,2020-10-28,5,Raizal,Bogotá,Guadalajara,Intermedio,Inglés
+113,Obdulia,Torrecilla,Otro,2009-10-06,RC,2477265537,9,2022-11-16,4,Palenquero,Antioquia,Lugo,Experto,Matemáticas
+114,Paulina,Perelló,Otro,2006-04-10,CC,8329589264,8,2023-05-10,4,Otro,Santander,Ávila,Principiante absoluto,Español
+115,Jose Carlos,Cervantes,Femenino,2012-06-12,TI,2826712991,8,2021-02-27,5,Mestizo,Atlántico,Valladolid,Principiante,Inglés
+116,Rosalva,Anglada,Femenino,2012-11-20,CC,5565049923,9,2021-03-11,3,Otro,Cundinamarca,Navarra,Avanzado,Ciencias
+117,Loreto,Hurtado,Otro,2013-01-22,TI,1620867148,10,2020-06-28,1,Mestizo,Cundinamarca,Albacete,Principiante absoluto,Historia
+118,Narcisa,Vergara,Otro,2012-05-21,RC,2476147989,6,2023-01-19,4,Blanco,Cundinamarca,Girona,Principiante absoluto,Educación Física
+119,Manuelita,Losa,Femenino,2011-08-16,CC,9328640401,8,2020-04-27,2,Indígena,Atlántico,Ceuta,Avanzado,Arte
+120,Baltasar,Cornejo,Masculino,2012-04-18,RC,5303972413,8,2021-01-10,4,Mestizo,Antioquia,Córdoba,Intermedio,Inglés
+121,Celia,Carreño,Masculino,2008-11-21,TI,4665383150,9,2023-08-31,3,Indígena,Bogotá,Las Palmas,Principiante,Español
+122,Raúl,Benito,Otro,2010-03-02,RC,5259408261,11,2020-11-21,6,Mestizo,Valle del Cauca,Pontevedra,Avanzado,Inglés
+123,María Jesús,Campoy,Masculino,2006-10-12,CC,9765268154,9,2022-04-22,2,Blanco,Antioquia,Valencia,Intermedio,Español
+124,Bienvenida,Crespo,Masculino,2007-02-14,TI,2746548930,10,2022-05-12,5,Afrodescendiente,Cundinamarca,Córdoba,Principiante,Matemáticas
+125,Luisa,Quintanilla,Otro,2009-03-21,CC,8786370574,9,2019-06-02,3,Blanco,Bogotá,Ceuta,Intermedio,Arte
+126,Bartolomé,Cañete,Masculino,2008-06-09,CC,5856642660,8,2019-06-14,2,Mestizo,Bogotá,Asturias,Principiante absoluto,Educación Física
+127,Victor Manuel,Giménez,Masculino,2009-06-10,CC,5441141565,9,2019-09-11,4,Otro,Atlántico,Sevilla,Experto,Historia
+128,Pepito,Carlos,Otro,2009-01-09,TI,1591076200,11,2023-12-06,1,Blanco,Atlántico,Lleida,Avanzado,Español
+129,Dani,Ocaña,Masculino,2008-06-20,CC,3185655865,11,2023-05-10,5,Raizal,Bogotá,Girona,Avanzado,Historia
+130,Ricarda,Bernad,Femenino,2008-08-14,RC,1181333238,10,2020-03-07,4,Blanco,Atlántico,Valencia,Principiante,Educación Física
+131,Lino,Zamorano,Otro,2010-09-18,TI,9666206263,10,2019-07-16,5,Indígena,Santander,Toledo,Principiante absoluto,Arte
+132,Rosalina,Losa,Masculino,2010-12-30,RC,4122389184,11,2023-02-21,6,Palenquero,Cundinamarca,Vizcaya,Intermedio,Historia
+133,Elba,Trujillo,Femenino,2011-08-08,CC,3654472000,8,2024-06-06,5,Afrodescendiente,Antioquia,Soria,Principiante absoluto,Matemáticas
+134,Glauco,Ricart,Otro,2011-09-22,TI,8735448289,10,2023-10-29,5,Otro,Atlántico,Álava,Intermedio,Arte
+135,Ricardo,Cuéllar,Masculino,2012-09-27,TI,6438514613,8,2021-01-17,4,Afrodescendiente,Atlántico,Toledo,Intermedio,Historia
+136,Carla,Zurita,Otro,2007-05-13,TI,4792095746,10,2019-04-11,1,Afrodescendiente,Santander,Segovia,Avanzado,Español
+137,Jose Manuel,Manuel,Otro,2011-03-25,RC,2576580441,7,2020-07-01,5,Blanco,Valle del Cauca,Navarra,Experto,Arte
+138,Artemio,Rocha,Otro,2007-09-26,RC,9179160150,6,2023-12-02,1,Raizal,Bogotá,Valencia,Principiante absoluto,Arte
+139,Teo,Gálvez,Femenino,2012-08-10,RC,6349953148,10,2024-03-09,4,Palenquero,Bogotá,Toledo,Avanzado,Matemáticas
+140,Perlita,Folch,Otro,2012-05-11,TI,1680986676,11,2019-05-20,4,Afrodescendiente,Antioquia,Cuenca,Intermedio,Ciencias
+141,Omar,Bastida,Otro,2012-02-28,RC,5789627516,6,2020-10-22,4,Blanco,Antioquia,Zaragoza,Principiante,Educación Física
+142,Alba,Bilbao,Otro,2009-09-02,CC,5820616439,6,2020-08-07,3,Indígena,Bogotá,Cádiz,Avanzado,Historia
+143,Pepe,Silva,Otro,2006-05-27,RC,4434336778,6,2020-03-16,1,Palenquero,Santander,Huesca,Principiante absoluto,Matemáticas
+144,Lupe,Iniesta,Otro,2006-05-06,RC,6227397493,11,2024-03-10,1,Afrodescendiente,Atlántico,Cádiz,Principiante absoluto,Inglés
+145,Dimas,Taboada,Femenino,2010-07-29,TI,6919768808,11,2024-01-31,2,Otro,Bogotá,Córdoba,Principiante,Educación Física
+146,Begoña,Montenegro,Femenino,2006-09-07,TI,5542914859,8,2021-11-04,1,Raizal,Bogotá,Ourense,Avanzado,Inglés
+147,Catalina,Alba,Femenino,2010-11-06,CC,7859587623,7,2022-01-05,1,Palenquero,Atlántico,La Rioja,Intermedio,Ciencias
+148,Norberto,Rebollo,Femenino,2012-04-23,CC,4066962093,9,2023-12-01,6,Palenquero,Santander,Asturias,Principiante absoluto,Arte
+149,Ambrosio,Abellán,Otro,2008-11-15,CC,7516912448,9,2019-04-26,2,Blanco,Santander,Málaga,Intermedio,Arte
+150,Evelia,Quero,Masculino,2008-04-30,RC,5839236744,7,2022-08-10,2,Mestizo,Atlántico,Albacete,Experto,Ciencias
+151,Camilo,Pla,Femenino,2012-02-19,RC,7094979753,8,2021-03-22,5,Blanco,Cundinamarca,Girona,Intermedio,Español
+152,Mamen,Juan,Otro,2006-11-07,CC,1997517429,7,2019-08-08,3,Otro,Valle del Cauca,Huesca,Principiante,Arte
+153,Albina,Cobos,Masculino,2012-06-20,RC,5338185370,11,2020-07-26,3,Indígena,Atlántico,Ourense,Principiante,Matemáticas
+154,Marcos,Alonso,Otro,2007-02-24,CC,6283132572,9,2019-06-01,4,Indígena,Bogotá,Teruel,Experto,Ciencias
+155,Pancho,Portillo,Femenino,2009-06-07,CC,9916375028,6,2025-03-05,6,Otro,Santander,Palencia,Principiante,Historia
+156,Remedios,Viana,Otro,2006-07-19,CC,7933440088,10,2023-02-22,6,Afrodescendiente,Atlántico,Badajoz,Avanzado,Arte
+157,Bautista,Donoso,Femenino,2010-09-27,RC,9680622406,9,2022-08-29,5,Indígena,Cundinamarca,Córdoba,Principiante,Español
+158,Jennifer,García,Femenino,2013-01-23,CC,1130652446,11,2022-03-01,4,Afrodescendiente,Cundinamarca,Salamanca,Intermedio,Educación Física
+159,Laura,Martin,Masculino,2008-06-19,TI,8778772852,6,2023-12-01,5,Otro,Antioquia,Madrid,Principiante absoluto,Ciencias
+160,Adolfo,Manuel,Femenino,2007-07-18,TI,2299362466,10,2025-01-05,1,Blanco,Valle del Cauca,Badajoz,Intermedio,Español
+161,Leocadio,Paniagua,Otro,2009-08-12,RC,4642719217,9,2022-07-31,4,Otro,Santander,Vizcaya,Experto,Ciencias
+162,Mohamed,Gomez,Femenino,2011-03-16,TI,5244165335,7,2021-08-25,2,Otro,Antioquia,Soria,Experto,Español
+163,Raquel,Miguel,Otro,2013-01-18,CC,4929382790,11,2024-05-17,5,Palenquero,Atlántico,Las Palmas,Experto,Matemáticas
+164,Florinda,Arjona,Otro,2008-02-03,RC,2976925355,8,2024-02-15,1,Afrodescendiente,Cundinamarca,Melilla,Intermedio,Historia
+165,Sebastián,Padilla,Masculino,2013-01-03,CC,8791677478,7,2022-11-06,4,Raizal,Santander,La Rioja,Intermedio,Arte
+166,Alexandra,Haro,Otro,2009-01-29,CC,5027270990,11,2023-03-30,1,Raizal,Antioquia,Granada,Principiante,Educación Física
+167,Hugo,Rojas,Femenino,2011-03-02,RC,6668269618,7,2020-08-28,5,Afrodescendiente,Bogotá,Málaga,Experto,Ciencias
+168,Adalberto,Almagro,Femenino,2012-10-16,RC,8892832786,10,2023-03-04,4,Indígena,Bogotá,Madrid,Experto,Inglés
+169,Sandalio,Canals,Masculino,2007-03-22,TI,2201474349,8,2022-11-06,6,Otro,Antioquia,Cuenca,Avanzado,Español
+170,Delfina,Botella,Femenino,2010-01-13,RC,9832494133,7,2022-11-10,2,Raizal,Antioquia,Soria,Principiante,Historia
+171,Eladio,Quintero,Otro,2011-01-10,CC,3566520582,7,2019-05-11,4,Raizal,Santander,Palencia,Principiante,Arte
+172,Camilo,Prat,Masculino,2012-08-20,CC,4839723658,11,2024-06-05,3,Otro,Santander,Girona,Principiante,Matemáticas
+173,Jacobo,Tello,Otro,2011-11-22,TI,2500461337,11,2022-01-14,1,Indígena,Cundinamarca,Ceuta,Intermedio,Inglés
+174,Roldán,Navarro,Femenino,2010-06-17,TI,9612200994,6,2020-12-12,5,Mestizo,Antioquia,Ávila,Intermedio,Inglés
+175,Melania,Mariño,Femenino,2007-08-12,RC,7796081930,9,2020-09-12,5,Mestizo,Santander,Salamanca,Experto,Arte
+176,Nacho,Arranz,Femenino,2011-02-16,RC,8877991433,7,2024-08-02,5,Otro,Cundinamarca,Cáceres,Intermedio,Historia
+177,Rosendo,Cárdenas,Masculino,2009-05-08,TI,4049817846,7,2021-12-23,6,Indígena,Cundinamarca,Huelva,Experto,Ciencias
+178,Narciso,Bermudez,Masculino,2012-02-28,CC,7220690902,7,2024-03-22,5,Otro,Valle del Cauca,Asturias,Principiante absoluto,Español
+179,Amancio,Herrero,Otro,2006-05-05,CC,1245373799,7,2023-10-19,1,Blanco,Valle del Cauca,Jaén,Intermedio,Español
+180,Marcelino,Reig,Masculino,2010-06-19,RC,1552307550,8,2022-01-24,6,Blanco,Cundinamarca,Madrid,Principiante,Ciencias
+181,Francisca,Alcalde,Femenino,2010-05-16,CC,9787445901,11,2021-10-28,4,Blanco,Atlántico,Pontevedra,Experto,Español
+182,Jose Antonio,Ibañez,Femenino,2012-05-26,CC,8774798350,7,2022-07-09,5,Otro,Bogotá,Ceuta,Avanzado,Historia
+183,Ignacio,Llanos,Otro,2008-09-21,TI,9283516811,9,2023-03-16,5,Blanco,Valle del Cauca,Melilla,Principiante,Español
+184,Sandra,Cardona,Masculino,2009-10-22,CC,7586437760,8,2021-08-06,2,Palenquero,Santander,La Rioja,Intermedio,Arte
+185,Alfonso,Sainz,Otro,2008-04-30,CC,4063239101,10,2019-07-15,5,Palenquero,Bogotá,Murcia,Principiante,Ciencias
+186,Teófila,Arévalo,Masculino,2012-02-10,RC,3039541716,6,2023-12-10,6,Palenquero,Santander,Teruel,Intermedio,Educación Física
+187,Leire,Amor,Femenino,2012-04-26,RC,2254312594,10,2019-12-10,6,Afrodescendiente,Atlántico,Ciudad,Principiante absoluto,Matemáticas
+188,Elpidio,Amorós,Otro,2009-01-26,CC,2638819030,8,2021-03-08,6,Otro,Bogotá,Huesca,Experto,Español
+189,Sigfrido,Figueroa,Otro,2006-05-02,RC,4498358436,7,2021-10-25,3,Raizal,Antioquia,Badajoz,Intermedio,Educación Física
+190,Ani,Goñi,Masculino,2010-06-14,CC,3640287432,10,2021-04-17,6,Raizal,Bogotá,Tarragona,Avanzado,Español
+191,Rosalinda,Alegre,Masculino,2011-12-25,RC,9760608330,9,2021-08-03,5,Palenquero,Santander,Burgos,Principiante,Inglés
+192,Benigno,Belmonte,Masculino,2009-10-09,CC,5830382824,10,2020-08-30,6,Blanco,Cundinamarca,Tarragona,Avanzado,Arte
+193,Elías,Reyes,Femenino,2009-07-17,CC,8778053276,8,2024-12-01,3,Raizal,Cundinamarca,Granada,Principiante absoluto,Historia
+194,José María,Pablo,Otro,2008-12-10,RC,6370081986,11,2021-04-07,2,Palenquero,Santander,Baleares,Principiante absoluto,Inglés
+195,Eutimio,Sarabia,Femenino,2011-08-18,CC,1516711369,9,2020-07-09,5,Mestizo,Santander,Cantabria,Intermedio,Educación Física
+196,Felicidad,Lloret,Otro,2006-11-29,TI,9688718339,7,2024-06-13,4,Indígena,Valle del Cauca,Cantabria,Principiante,Ciencias
+197,Heraclio,Hoyos,Otro,2006-09-22,CC,1985015117,6,2022-09-28,1,Indígena,Cundinamarca,La Coruña,Intermedio,Ciencias
+198,Victor Manuel,Calderón,Otro,2010-10-22,CC,3295641333,8,2020-04-12,6,Raizal,Santander,Zaragoza,Principiante absoluto,Inglés
+199,Reynaldo,Anguita,Otro,2010-08-18,CC,9568020337,7,2021-10-20,5,Raizal,Antioquia,Navarra,Intermedio,Matemáticas
+200,Mamen,Tena,Femenino,2008-10-17,RC,7779204850,11,2023-03-01,5,Blanco,Antioquia,Murcia,Experto,Ciencias
+201,Abraham,Querol,Femenino,2006-07-26,RC,2020403127,9,2019-07-08,1,Blanco,Cundinamarca,Valencia,Experto,Historia
+202,Florinda,Pascual,Masculino,2012-03-25,TI,8925702225,10,2021-08-28,3,Indígena,Valle del Cauca,León,Avanzado,Educación Física
+203,Vinicio,Alcántara,Masculino,2011-05-02,CC,1957414017,9,2019-12-25,6,Indígena,Valle del Cauca,Sevilla,Intermedio,Matemáticas
+204,Julieta,Perea,Femenino,2010-03-28,TI,2146882814,7,2020-02-02,1,Afrodescendiente,Santander,La Rioja,Principiante absoluto,Historia
+205,Nerea,Mata,Femenino,2009-06-02,CC,9937505486,11,2024-06-24,4,Palenquero,Antioquia,Cantabria,Avanzado,Inglés
+206,Mariana,Borrego,Otro,2006-09-08,RC,8306351802,6,2020-08-18,1,Indígena,Bogotá,Álava,Principiante,Inglés
+207,Marcelino,Lastra,Otro,2010-02-15,CC,9318370793,8,2025-03-12,1,Afrodescendiente,Cundinamarca,Alicante,Intermedio,Educación Física
+208,Paloma,Vélez,Otro,2007-12-11,TI,4129713614,7,2021-09-25,3,Afrodescendiente,Atlántico,Valencia,Intermedio,Matemáticas
+209,Vilma,Granados,Masculino,2006-06-01,CC,5832119861,10,2021-08-29,3,Blanco,Cundinamarca,Vizcaya,Principiante,Arte
+210,Carmina,Casanova,Otro,2011-10-29,RC,2250036322,9,2019-09-21,1,Palenquero,Cundinamarca,Valencia,Experto,Inglés
+211,Ana Belén,Belda,Masculino,2011-07-20,CC,4282949339,7,2025-03-04,2,Palenquero,Bogotá,León,Principiante absoluto,Educación Física
+212,Natividad,Montaña,Femenino,2011-11-21,TI,1231521102,6,2023-03-30,3,Blanco,Valle del Cauca,Cuenca,Intermedio,Historia
+213,Gabriel,Carrasco,Masculino,2007-10-05,TI,6915977030,8,2024-03-08,5,Raizal,Santander,Murcia,Experto,Historia
+214,Carlos,Abad,Masculino,2008-02-05,RC,4934356815,7,2022-11-12,1,Mestizo,Valle del Cauca,Palencia,Principiante,Educación Física
+215,Cristina,Ferrando,Masculino,2008-06-19,TI,4155367025,11,2024-07-04,1,Mestizo,Valle del Cauca,Murcia,Experto,Matemáticas
+216,Amada,Guzman,Otro,2009-12-23,TI,5443399793,10,2022-11-26,6,Palenquero,Antioquia,Salamanca,Avanzado,Arte
+217,Candela,Tamarit,Otro,2007-12-03,TI,2259888497,8,2023-07-11,3,Palenquero,Antioquia,Soria,Intermedio,Arte
+218,Herminio,Arjona,Femenino,2012-09-13,RC,5505147813,9,2022-10-09,6,Otro,Cundinamarca,Ciudad,Intermedio,Arte
+219,Faustino,Giménez,Otro,2012-01-17,RC,6794800054,9,2021-09-04,1,Palenquero,Cundinamarca,Valencia,Principiante absoluto,Inglés
+220,Eladio,Barón,Femenino,2009-06-21,RC,1414097262,8,2021-07-25,4,Mestizo,Atlántico,Salamanca,Principiante absoluto,Matemáticas
+221,Ana Sofía,Fonseca,Masculino,2009-10-30,CC,6414160798,7,2022-06-21,6,Palenquero,Santander,Badajoz,Principiante,Educación Física
+222,Elpidio,Sobrino,Otro,2007-12-02,RC,4563511455,10,2021-02-13,4,Otro,Cundinamarca,Zamora,Principiante,Historia
+223,Lucas,Sans,Femenino,2011-09-07,TI,6409435352,11,2019-04-17,5,Otro,Valle del Cauca,Santa Cruz de Tenerife,Experto,Matemáticas
+224,Tomasa,Alcántara,Masculino,2006-11-20,CC,7933699776,11,2024-04-23,3,Otro,Santander,Sevilla,Intermedio,Español
+225,Pablo,Guerra,Masculino,2007-11-05,CC,3374405415,8,2020-05-30,1,Afrodescendiente,Cundinamarca,Madrid,Experto,Matemáticas
+226,Jorge,Céspedes,Otro,2009-09-05,RC,1736108950,8,2022-09-16,5,Blanco,Valle del Cauca,Salamanca,Principiante absoluto,Español
+227,Morena,Farré,Otro,2009-12-01,RC,4142139322,11,2020-12-22,4,Indígena,Antioquia,Zaragoza,Principiante absoluto,Matemáticas
+228,Noa,Lladó,Femenino,2006-09-16,CC,8179083479,9,2022-10-22,6,Palenquero,Cundinamarca,Guipúzcoa,Principiante,Matemáticas
+229,Luisina,Lucas,Masculino,2008-11-20,RC,7316842552,8,2019-05-22,2,Blanco,Santander,Huelva,Avanzado,Matemáticas
+230,Plácido,Adadia,Otro,2010-11-24,CC,4691980464,9,2020-01-03,3,Indígena,Bogotá,Barcelona,Intermedio,Ciencias
+231,Bautista,Cabezas,Femenino,2012-03-06,CC,7906655870,8,2024-01-14,4,Palenquero,Bogotá,Málaga,Principiante absoluto,Matemáticas
+232,Carlos,Cabo,Femenino,2008-09-28,CC,7045681044,10,2024-07-31,1,Afrodescendiente,Bogotá,Girona,Experto,Matemáticas
+233,Cristina,Riba,Otro,2011-10-06,RC,2939334064,9,2019-07-08,2,Blanco,Atlántico,Cuenca,Principiante absoluto,Español
+234,Andrés Felipe,Pardo,Masculino,2012-06-12,RC,2181872869,7,2024-03-14,4,Mestizo,Santander,Girona,Principiante,Educación Física
+235,Edmundo,Pellicer,Femenino,2006-09-30,RC,9342359721,11,2021-08-05,1,Mestizo,Cundinamarca,Ourense,Principiante absoluto,Educación Física
+236,Georgina,Diez,Otro,2008-06-24,TI,2376550469,10,2020-11-26,6,Otro,Antioquia,Ceuta,Principiante absoluto,Inglés
+237,Marc,Cornejo,Otro,2008-06-03,TI,4347102017,7,2022-03-20,4,Palenquero,Cundinamarca,Cáceres,Principiante,Historia
+238,Jose Luis,Viana,Femenino,2007-07-09,CC,6758047267,11,2019-11-05,3,Indígena,Santander,Cantabria,Intermedio,Arte
+239,Maxi,Pardo,Femenino,2012-10-10,CC,3045924604,11,2024-07-03,4,Mestizo,Cundinamarca,Palencia,Avanzado,Español
+240,Galo,Mínguez,Otro,2009-11-21,RC,7595020183,6,2021-09-21,3,Indígena,Antioquia,Madrid,Principiante,Arte
+241,Amor,Figueras,Otro,2010-08-27,RC,4404206746,10,2020-03-22,3,Otro,Antioquia,Málaga,Principiante,Historia
+242,Zaida,Valentín,Masculino,2010-03-11,TI,7972532528,6,2023-01-31,1,Raizal,Cundinamarca,Córdoba,Principiante,Matemáticas
+243,Loreto,Arana,Masculino,2013-02-09,TI,1765306010,8,2023-09-02,6,Indígena,Cundinamarca,Burgos,Principiante absoluto,Ciencias
+244,Dora,Marco,Otro,2010-01-04,CC,9825659503,10,2021-09-04,3,Mestizo,Antioquia,Barcelona,Avanzado,Educación Física
+245,Jose,Puig,Femenino,2010-01-16,RC,2515407936,9,2021-01-03,3,Blanco,Cundinamarca,Albacete,Principiante absoluto,Arte
+246,Marta,Molina,Masculino,2009-08-28,TI,6537931090,6,2020-03-09,5,Mestizo,Valle del Cauca,Ciudad,Experto,Arte
+247,Victoria,Porta,Otro,2008-11-24,CC,7397676808,11,2024-01-10,5,Afrodescendiente,Santander,La Rioja,Principiante,Matemáticas
+248,Pastora,Grande,Masculino,2013-03-24,RC,7435518040,10,2019-10-07,4,Blanco,Bogotá,Lleida,Principiante,Educación Física
+249,Ibán,Mayoral,Femenino,2009-01-20,TI,9282293561,6,2019-11-26,5,Raizal,Antioquia,Castellón,Intermedio,Educación Física
+250,Modesta,Pavón,Masculino,2011-02-24,TI,4372774326,9,2024-08-02,1,Mestizo,Antioquia,Santa Cruz de Tenerife,Principiante,Educación Física
+251,Joan,Moll,Femenino,2007-01-28,CC,4952739897,8,2019-12-20,6,Afrodescendiente,Atlántico,Asturias,Experto,Inglés
+252,David,Nieto,Masculino,2008-09-05,TI,9630997470,10,2024-12-25,4,Afrodescendiente,Antioquia,La Coruña,Avanzado,Educación Física
+253,Julia,Salinas,Otro,2009-06-22,TI,8086085354,9,2025-01-05,4,Mestizo,Valle del Cauca,Ciudad,Principiante,Historia
+254,Eugenio,Dueñas,Femenino,2008-12-31,TI,4533339276,9,2020-09-26,6,Afrodescendiente,Bogotá,Castellón,Experto,Ciencias
+255,Candelario,Mariscal,Femenino,2006-04-01,CC,8345205072,10,2024-07-09,1,Blanco,Santander,Barcelona,Intermedio,Matemáticas
+256,Urbano,Rodríguez,Otro,2009-03-01,CC,4305429245,7,2021-07-10,6,Indígena,Bogotá,Soria,Intermedio,Educación Física
+257,Renata,Fabregat,Otro,2011-03-09,TI,2140307007,7,2021-04-06,3,Palenquero,Atlántico,Granada,Experto,Arte
+258,Concha,Estrada,Masculino,2012-10-17,CC,3060919969,9,2022-01-14,5,Indígena,Bogotá,Valencia,Intermedio,Inglés
+259,Sabina,Orozco,Masculino,2012-10-02,RC,1988753923,6,2024-05-15,3,Mestizo,Antioquia,Las Palmas,Experto,Educación Física
+260,Belén,Castro,Masculino,2012-06-19,RC,7670282645,6,2021-05-21,3,Afrodescendiente,Cundinamarca,Zamora,Principiante absoluto,Español
+261,Cayetano,Ballester,Femenino,2006-12-04,TI,1885744753,8,2024-01-03,6,Afrodescendiente,Antioquia,Granada,Avanzado,Matemáticas
+262,Aurora,Díaz,Otro,2008-04-26,RC,8252113599,11,2023-12-25,6,Afrodescendiente,Bogotá,Valladolid,Principiante absoluto,Ciencias
+263,Crescencia,Murcia,Masculino,2010-10-01,RC,2472529995,10,2023-09-21,3,Otro,Bogotá,Ourense,Experto,Español
+264,Pánfilo,Revilla,Otro,2012-01-29,CC,8814594383,10,2022-07-06,4,Otro,Bogotá,Badajoz,Experto,Español
+265,Juanita,Olivé,Otro,2007-01-08,RC,2569042985,10,2023-01-25,3,Blanco,Cundinamarca,Cáceres,Principiante absoluto,Ciencias
+266,Serafina,Martorell,Masculino,2007-03-30,RC,9507467837,11,2022-03-25,2,Indígena,Valle del Cauca,La Coruña,Experto,Inglés
+267,Martirio,Gual,Femenino,2012-01-14,TI,9504788454,10,2022-05-01,3,Indígena,Atlántico,Santa Cruz de Tenerife,Experto,Inglés
+268,Damián,Ramón,Masculino,2006-12-27,RC,3121051532,8,2019-05-30,6,Raizal,Atlántico,Cantabria,Intermedio,Matemáticas
+269,Ceferino,Bolaños,Femenino,2006-06-05,TI,3362368829,8,2020-09-16,6,Indígena,Santander,Granada,Experto,Arte
+270,Diana,Iborra,Masculino,2013-01-11,RC,9561604723,9,2022-07-15,4,Mestizo,Bogotá,Granada,Principiante,Inglés
+271,Rita,Iglesia,Masculino,2009-05-31,TI,9830002781,9,2023-09-17,3,Otro,Santander,Castellón,Intermedio,Inglés
+272,Manuelita,Villena,Masculino,2010-10-27,CC,3064781017,8,2019-09-13,5,Indígena,Cundinamarca,Palencia,Intermedio,Matemáticas
+273,Concepción,Escamilla,Femenino,2011-07-29,TI,1261982489,8,2022-10-04,1,Raizal,Atlántico,Ourense,Intermedio,Historia
+274,Leoncio,Falcó,Femenino,2012-11-23,TI,6993058812,10,2020-02-22,2,Otro,Cundinamarca,Lugo,Avanzado,Ciencias
+275,Espiridión,Alfaro,Femenino,2009-01-18,RC,8681889290,8,2022-08-29,3,Afrodescendiente,Santander,Ávila,Intermedio,Matemáticas
+276,Ruth,Baeza,Femenino,2011-05-28,RC,5251507851,9,2024-03-17,3,Raizal,Santander,Ávila,Principiante,Historia
+277,Crescencia,Porcel,Masculino,2009-01-10,RC,8968252769,7,2022-12-14,2,Blanco,Antioquia,Badajoz,Intermedio,Educación Física
+278,Jenny,Expósito,Masculino,2012-08-14,RC,2894237602,9,2022-02-02,3,Palenquero,Valle del Cauca,Navarra,Avanzado,Historia
+279,Custodia,Company,Femenino,2013-02-21,CC,7374403873,7,2022-02-12,3,Indígena,Valle del Cauca,Albacete,Avanzado,Educación Física
+280,Édgar,Vallés,Otro,2008-08-29,CC,5610528436,7,2024-09-19,4,Otro,Valle del Cauca,Castellón,Intermedio,Arte
+281,Loreto,Anguita,Otro,2008-06-15,TI,9424890682,9,2022-10-13,4,Indígena,Atlántico,Girona,Experto,Inglés
+282,Cristian,Quero,Masculino,2012-04-08,RC,5076971648,10,2022-09-12,6,Blanco,Cundinamarca,Las Palmas,Experto,Matemáticas
+283,Calisto,Maza,Otro,2010-02-02,CC,5120595960,11,2022-03-29,3,Mestizo,Santander,Guipúzcoa,Principiante absoluto,Inglés
+284,Maxi,Urrutia,Femenino,2011-03-23,CC,6455625633,9,2020-12-28,6,Raizal,Valle del Cauca,Tarragona,Principiante,Arte
+285,Socorro,Jordán,Otro,2012-12-03,CC,4251199379,11,2022-03-05,3,Otro,Antioquia,Vizcaya,Experto,Inglés
+286,Fabián,Pinilla,Otro,2007-01-15,RC,5622160580,11,2024-07-05,6,Raizal,Bogotá,León,Avanzado,Arte
+287,Epifanio,Palomar,Femenino,2007-11-16,CC,8568225054,8,2021-12-27,6,Afrodescendiente,Santander,Valencia,Avanzado,Ciencias
+288,Raúl,Barros,Masculino,2008-02-17,TI,5812768091,7,2023-03-14,5,Blanco,Santander,Murcia,Avanzado,Ciencias
+289,Fausto,Barral,Femenino,2013-01-18,TI,2528896529,9,2023-03-18,3,Raizal,Cundinamarca,Álava,Experto,Ciencias
+290,María Manuela,Recio,Masculino,2008-05-04,RC,8652844566,8,2024-08-11,3,Blanco,Antioquia,Girona,Avanzado,Educación Física
+291,Fito,Pi,Masculino,2011-10-24,CC,3911048790,6,2023-05-05,1,Indígena,Atlántico,Ceuta,Principiante absoluto,Historia
+292,Manu,Higueras,Otro,2008-07-03,CC,1711009312,9,2021-01-08,4,Raizal,Cundinamarca,Jaén,Experto,Matemáticas
+293,Candelario,Mínguez,Otro,2007-09-01,CC,9136263653,9,2021-07-19,5,Mestizo,Santander,Granada,Avanzado,Educación Física
+294,Gracia,Ayuso,Masculino,2008-10-13,CC,1638344577,8,2021-08-26,1,Raizal,Atlántico,Córdoba,Principiante absoluto,Educación Física
+295,Marco,Portillo,Masculino,2011-05-31,TI,1366600591,8,2023-10-04,1,Blanco,Santander,Zaragoza,Principiante absoluto,Matemáticas
+296,Clotilde,Rincón,Femenino,2006-12-24,CC,5673077817,11,2024-03-09,5,Indígena,Cundinamarca,Segovia,Principiante absoluto,Educación Física
+297,José Ángel,Marquez,Femenino,2012-09-15,CC,3647382538,9,2021-07-19,5,Afrodescendiente,Bogotá,La Rioja,Intermedio,Educación Física
+298,Eladio,Goñi,Masculino,2008-04-07,TI,3630883650,11,2019-10-13,1,Otro,Bogotá,Santa Cruz de Tenerife,Avanzado,Educación Física
+299,Loida,Sosa,Otro,2012-11-05,CC,5825580162,11,2025-03-03,5,Otro,Santander,Guadalajara,Experto,Ciencias
+300,Poncio,Romeu,Femenino,2011-12-27,CC,6363865317,8,2024-08-07,2,Otro,Bogotá,Cáceres,Avanzado,Historia

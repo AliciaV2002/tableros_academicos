@@ -1,0 +1,26 @@
+[[pages]]
+name = "Matricula"
+icon = ":mortar_board:"
+is_section = true  # This is a section
+
+[[pages]]
+name = "Colegio 1"
+path = "pages/matriculados.py"
+
+
+[[pages]]
+name = "Colegio 2"
+path = "pages/colegio1.py"
+
+[[pages]]
+name = "Segunda Lengua"
+icon = ":books:"
+is_section = true
+
+[[pages]]
+name= "Nivel de segunda lengua"
+path = "pages/nivel_grados.py"
+
+
+
+
